@@ -2,7 +2,8 @@ git add .
 git commit -m"discription"
 git push origin master
 
-Nếu mới: 
+Nếu repository mới: 
+vào thư mục mở GIT BASH
 git init
 copy dòng dài nhất paste vào
 git remote -v
