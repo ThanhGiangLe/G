@@ -2,3 +2,7 @@ git add .
 git commit -m"discription"
 git push origin master
 
+Nếu mới: 
+git init
+copy dòng dài nhất paste vào
+git remote -v
